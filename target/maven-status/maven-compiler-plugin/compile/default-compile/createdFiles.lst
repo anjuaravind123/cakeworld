@@ -1,0 +1,6 @@
+com\cakefactory\product\Product.class
+com\cakefactory\product\ProductDAOImpl.class
+com\cakefactory\product\ProductDAO.class
+com\cakefactory\product\ProductService.class
+com\cakefactory\product\ProductServiceImpl.class
+com\cakefactory\cakefactoryController.class
